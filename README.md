@@ -73,7 +73,7 @@ I'm Madan Kumar, Full Stack developer from Mumbai, India :india:
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/jmadankumar/react-scrollup-lite"
+            <a href="https://github.com/jmadankumar/sdp-analyser"
               ><b>Session description protocol Analyser </b></a
             >
           </td>
@@ -86,7 +86,7 @@ I'm Madan Kumar, Full Stack developer from Mumbai, India :india:
         </tr>
         <tr>
           <td>
-            <a href="https://github.com/jmadankumar/react-scrollup-lite"
+            <a href="https://github.com/jmadankumar/react-express-ssr"
               ><b>React Express SSR template </b></a
             >
           </td>
