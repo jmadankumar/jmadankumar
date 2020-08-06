@@ -84,6 +84,19 @@ I'm Madan Kumar, Full Stack developer from Mumbai, India :india:
             />
           </td>
         </tr>
+         <tr>
+          <td>
+            <a href="https://github.com/jmadankumar/algorithm-visualizer"
+              ><b>Data structures and Algorithm Visualizer</b></a
+            >
+          </td>
+          <td>
+            <img
+              alt="Stars"
+              src="https://img.shields.io/github/stars/jmadankumar/algorithm-visualizer?style=flat-square&labelColor=343b41"
+            />
+          </td>
+        </tr>
         <tr>
           <td>
             <a href="https://github.com/jmadankumar/react-express-ssr"
