@@ -9,7 +9,7 @@ I'm Madan Kumar, Full Stack developer from Mumbai, India :india:
 - 😄 My Pronouns: He/Him
 - ⚡️ Fun fact: I'm a huge fan of APJ.Abdul Kalam
 
-For More details - [http://madankumar.me/]http://madankumar.me/)
+For More details - [http://madankumar.me/](http://madankumar.me/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jmadankumar&hide=issues&show_icons=true&count_private=true&theme=prussian)
 
