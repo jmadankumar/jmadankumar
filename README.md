@@ -2,7 +2,7 @@
 
 I'm Madan Kumar, Full Stack developer from Mumbai, India :india:
 
-- 👨‍💻 Creating beautiful video conferencing app development using webrtc for deaf users.
+- 👨‍💻 Creating beautiful video conferencing app using webrtc for deaf users.
 - 🏢 Working at L&T infotech
 - 🌱 Learning all about Open Source
 - 💬 Ask me about React, Javascript
