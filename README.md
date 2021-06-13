@@ -1,6 +1,8 @@
-# Hello All 👋, Nice to see you
+# Hello All 👋
 
-I'm Madan Kumar, Full Stack developer from Mumbai, India :india:
+<img src="Programming-amico.svg" alt="programing" style="width:100%;max-width:400px;"/>
+
+I'm Madan Kumar, Full Stack Web developer from Mumbai, India :india:
 
 - 👨‍💻 Creating beautiful video conferencing app using webrtc for deaf users.
 - 🏢 Working at L&T infotech
