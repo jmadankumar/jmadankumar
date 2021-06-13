@@ -1,6 +1,6 @@
 # Hello All 👋
 
-<img src="Programming-amico.svg" alt="programing" style="width:100%;max-width:400px;"/>
+<img src="Programming-amico.svg" alt="programing" width="400px" style="width:100%;max-width:400px;"/>
 
 I'm Madan Kumar, Full Stack Web developer from Mumbai, India :india:
 
