@@ -1,7 +1,5 @@
 # Hello All 👋
 
-<img src="Programming-amico.svg" alt="programing" width="400px" style="width:100%;max-width:400px;"/>
-
 I'm Madan Kumar, Full Stack Web developer from Mumbai, India :india:
 
 - 👨‍💻 Creating beautiful video conferencing app using webrtc for deaf users.
