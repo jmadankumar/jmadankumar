@@ -2,10 +2,10 @@
 
 I'm Madan Kumar, Full Stack Web developer from Mumbai, India :india:
 
-- 👨‍💻 Creating beautiful video conferencing app using webrtc for deaf users.
-- 🏢 Working at L&T infotech
+- 👨‍💻 Buiding next generation ecommerce admin tool.
+- 🏢 Working at HCL
 - 🌱 Learning about Open Source
-- 💬 Ask me about Javascript, ReactJS, and NodeJS.
+- 💬 Ask me about Javascript, ReactJS, Typescript and NodeJS.
 - 😄 My Pronouns: He/Him
 - ⚡️ Fun fact: I'm a huge fan of APJ.Abdul Kalam
 
