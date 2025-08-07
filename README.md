@@ -1,15 +1,15 @@
 # Hello All 👋
 
-I'm Madan Kumar, Full Stack Web developer from Mumbai, India :india:
+I'm Madan Kumar, Full Stack Web developer from Chennai, India :india:
 
-- 👨‍💻 Buiding next generation ecommerce admin tool.
-- 🏢 Working at HCL
-- 🌱 Learning about Open Source
+- 👨‍💻 Buiding Modern ecommerce applications.
+- 🏢 Working at HCLTech.
+- 🌱 Learning about AI, Ecommerce, and Marketing.
 - 💬 Ask me about Javascript, ReactJS, Typescript and NodeJS.
 - 😄 My Pronouns: He/Him
-- ⚡️ Fun fact: I'm a huge fan of APJ.Abdul Kalam
+- ⚡️ Hobby: Gardening
 
-For More details - [https://madankumar.me/](https://madankumar.me/)
+For More details - [https://madankumar.js.org/](https://madankumar.js.org/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jmadankumar&hide=issues&show_icons=true&count_private=true&theme=prussian)
 
